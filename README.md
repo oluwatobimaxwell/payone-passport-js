@@ -55,3 +55,11 @@ Place models in public directory
         "expression": "happy"
       }
     }
+
+
+[![Result 1](https://raw.githubusercontent.com/oluwatobimaxwell/payone-passport-js/main/example/images/Screenshot%202021-07-17%20at%2013-52-36%20Payone%20NIN%20Verification%20Service.png "Result 1")](https://raw.githubusercontent.com/oluwatobimaxwell/payone-passport-js/main/example/images/Screenshot%202021-07-17%20at%2013-52-36%20Payone%20NIN%20Verification%20Service.png "Result 1")
+
+
+[![Result 2](https://raw.githubusercontent.com/oluwatobimaxwell/payone-passport-js/main/example/images/Screenshot%202021-07-17%20at%2013-53-16%20Payone%20NIN%20Verification%20Service.png "Result 2")](https://raw.githubusercontent.com/oluwatobimaxwell/payone-passport-js/main/example/images/Screenshot%202021-07-17%20at%2013-53-16%20Payone%20NIN%20Verification%20Service.png "Result 2")
+
+[![Result 3](https://raw.githubusercontent.com/oluwatobimaxwell/payone-passport-js/main/example/images/Screenshot%202021-07-17%20at%2013-53-44%20Payone%20NIN%20Verification%20Service.png "Result 3")](https://raw.githubusercontent.com/oluwatobimaxwell/payone-passport-js/main/example/images/Screenshot%202021-07-17%20at%2013-53-44%20Payone%20NIN%20Verification%20Service.png "Result 3")
